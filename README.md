@@ -2,9 +2,9 @@
 
 Desenvolvedor Full Stack
 
-Me chamo Guilherme De Oliveira Lopes Carolina, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento de software. Atualmente atuo como estagiário na área de desenvolvimento, onde trabalho com tecnologias voltadas para aplicações web e aprimoro diariamente minhas habilidades em desenvolvimento Full Stack.
+Me chamo Guilherme De Oliveira Lopes Carolina, sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e apaixonado por desenvolvimento de software. Atualmente atuo como estagiário na área de desenvolvimento Full Stack, onde trabalho com tecnologias voltadas para aplicações web e aprimoro diariamente minhas skills.
 
-Tenho experiência com JavaScript, Node.js, My Sql e, além de conhecimentos em HTML, CSS, Git e APIs REST. Atualmente também estou aprofundando meus estudos em Java, com foco em Programação Orientada a Objetos, buscando construir aplicações cada vez mais escaláveis e bem estruturadas.
+Tenho experiência com JavaScript, Node.js, MySQL, MongoDB além de conhecimentos em HTML, CSS, Git e APIs REST. Atualmente também estou aprofundando meus estudos em Java, com foco em Programação Orientada a Objetos, buscando construir aplicações cada vez mais escaláveis e bem estruturadas.
 
 Estou sempre em busca de novos desafios e oportunidades para aprender, evoluir profissionalmente e desenvolver soluções que gerem valor.
 
