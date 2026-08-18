@@ -15,5 +15,5 @@ Estou sempre em busca de novos desafios e oportunidades para aprender, evoluir p
 Linkedin
 
 <a href="https://www.linkedin.com/in/guilherme-de-oliveira-lopes-carolina-77155b374/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBX5mDUQhQ8yknSewhzWtrA%3D%3D">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
 </a>
