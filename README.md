@@ -1,19 +1,37 @@
- Guilherme De Oliveira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=026602&height=120&section=header"/>
 
-Desenvolvedor Full Stack
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=026602&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+de+Oliveira+Lopes;I+study+analysis+and+systems+development+at+PUCPR;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-Me chamo Guilherme De Oliveira Lopes Carolina, sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e apaixonado por desenvolvimento de software. Atualmente atuo como estagiário na área de desenvolvimento Full Stack, onde trabalho com tecnologias voltadas para aplicações web e aprimoro diariamente minhas skills.
-
-Tenho experiência com JavaScript, Node.js, MySQL, MongoDB além de conhecimentos em HTML, CSS, Git e APIs REST. Atualmente também estou aprofundando meus estudos em Java, com foco em Programação Orientada a Objetos, buscando construir aplicações cada vez mais escaláveis e bem estruturadas.
-
-Estou sempre em busca de novos desafios e oportunidades para aprender, evoluir profissionalmente e desenvolver soluções que gerem valor.
-
- Linguagens e Tecnologias em desenvolvimento
-
-<p align="left"> <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img alt="MongoDB" title="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> <img alt="Azure" title="Microsoft Azure" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </p>
-
-Linkedin
-
-<a href="https://www.linkedin.com/in/guilherme-de-oliveira-lopes-carolina-77155b374/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBX5mDUQhQ8yknSewhzWtrA%3D%3D">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+<div align="center">  
+<a href="https://www.linkedin.com/in/guilherme-de-oliveira-lopes-carolina-77155b374" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+</div> 
+ 
+### Main Skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)&nbsp;
+ 
+### Tools:
+![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0D1117?style=for-the-badge&logo=azure-devops&logoColor=0078D7&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117)&nbsp;
+  
+### Studying at the Moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=026602&height=120&section=footer"/>
