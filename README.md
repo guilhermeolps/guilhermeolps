@@ -60,6 +60,21 @@
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </p>
 
+<br>
+
+<div align="center">
+  <h3>Featured Projects</h3>
+</div>
+<p align="center">
+  <a href="https://github.com/guilhermeolps/Dbdelivery">
+    <img src="https://img.shields.io/badge/Dbdelivery-MySQL_%2F_Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/guilhermeolps/crudprodutividade">
+    <img src="https://img.shields.io/badge/Crud_Produtividade-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4076A1&height=120&section=footer"/>
